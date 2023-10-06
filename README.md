@@ -11,7 +11,7 @@ This project is an AI-powered solution for automated biceps curl counting during
 - Real-time monitoring and feedback for efficient workout sessions.
 
 ## Demo
-![Animated GIF]([https://i.imgur.com/your-gif-url.gif](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/jamal022/Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe/blob/main/gif.gif)https://github.com/jamal022/Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe/blob/main/gif.gif))
+![Animated GIF](https://github.com/jamal022/Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe/blob/main/gif.gif)
 
 
 ## Getting Started

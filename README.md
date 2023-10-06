@@ -24,7 +24,7 @@ Follow these steps to get your project up and running:
 
 2. **Go to the directory file**
    ```bash
-   cd biceps-curl-counting
+   cd Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe
 
 3. **Install Dependencies**
    ```bash

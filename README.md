@@ -20,14 +20,17 @@ Follow these steps to get your project up and running:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/biceps-curl-counting.git
+   git clone https://github.com/your-username/biceps-curl-counting.git](https://github.com/jamal022/Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe.git
+
+2. **Go to the directory file**
+   ```bash
    cd biceps-curl-counting
 
-2. **Install Dependencies**
+3. **Install Dependencies**
    ```bash
      pip install -r requirements.txt
 
-3. Open the Jupyter Notebook
+4. Open the Jupyter Notebook
    ```bash
    jupyter notebook
 

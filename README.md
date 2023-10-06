@@ -20,7 +20,7 @@ Follow these steps to get your project up and running:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/biceps-curl-counting.git](https://github.com/jamal022/Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe.git
+   git clone https://github.com/jamal022/Biceps-Curl-Counting-with-Pose-Estimation-using-Mediapipe.git
 
 2. **Go to the directory file**
    ```bash
